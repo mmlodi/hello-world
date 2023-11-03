@@ -414,47 +414,47 @@ h4{
   }
   
   .item01 li::before{
-    background-color: #0099ff;  
+    background-color: #ff0000;  
   }
   
   .item01{
-    background: #7da5c0;
+    background: #f77373;
     z-index: 99;
   }
   
   .item02 li::before{
-    background-color: #0fb60e;
+    background-color: #4d4d4d;
   }
   
   .item02{
-    background: #75c575;
+    background: #9c9b9b;
     z-index: 99;
   }
   
   .item03 li::before{
-    background-color: #fa262a;
+    background-color: #000000;
   }
   
   .item03{
-    background: #ad6e70;
+    background: #3b3b3b;
     z-index: 99;
   }
   
   .item04 li::before{
-    background-color: #9a0062;
+    background-color: #ff0000;
   }
   
   .item04{
-    background: #b1769b;
+    background: #f77373;
     z-index: 99;
   }
   
   .item05 li::before{
-    background-color: #e10337;
+    background-color: #4d4d4d;
   }
   
   .item05{
-    background: #e16770;
+    background: #9c9b9b;
     z-index: 99;
   }
   
